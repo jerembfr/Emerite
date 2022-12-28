@@ -1,0 +1,16 @@
+html{
+    height: auto;
+}
+body{
+    background-color: #a9a9a9;
+}
+*{
+    text-align: center;
+    top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+}

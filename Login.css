@@ -2,7 +2,7 @@ html{
     height: auto;
 }
 body{
-    background-color: lightgray;
+    background-color: #282828;
 }
 *{
     text-align: center;
@@ -16,5 +16,15 @@ button{
 }
 a{
     text-decoration: none;
-    color: red;
+    color: black;
+    font-size: 35px;
+}
+h5{
+    margin-top: 5px;
+}
+h4{
+    margin-top: 10px;
+}
+.Next{
+    font-size: 25px;
 }

@@ -1,0 +1,15 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: #282828;
+}
+*{
+    text-align: center;
+}
+.A1{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
